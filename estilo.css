@@ -1,0 +1,234 @@
+.introdução h1{margin:15px;padding:15px;font-family:sans-serif;font-size:25px;color:red;text-align:center;}
+
+.introdução p{margin:10px;padding:15px;font-size:25px;font-family:arial-black;color:purple;}
+
+
+.galerias img{width:250px;margin:auto;border:1px solid red;}
+
+.galerias p{
+	margin:10px;padding:15px;font-size:25px;font-family:arial-black;color:purple
+}
+
+.aprender ul{font-family:arial-black;font-size:25px;list-style-type: none;display:block;position:relative;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)}
+
+.aprender li{color:red;font-size:25px;text-align:center; }
+
+.aprender h1{text-align:center;font-size:30px;border:2px solid purple;}
+
+
+.videos h2{text-align:center;font-size:35px;font-family:arial;color:red;border:4px solid gray;}
+
+.videos p{color:red;font-size:24px;font-family:arial-black;text-align:center;border:3px dotted ;}
+
+
+.videos video{border:5px double red;width:350;margin:50px;padding:50px;}
+
+.videos h1{color:red;text-align:center;font-size:25px;font-family:arial-black;border:3px solid pink;}
+
+.explicação h1{font-size:25px;font-family:arial;margin:20px;padding:20px;text-align:center;color:red;}
+
+.video01 video{
+	margin:100px;
+	padding:100px;
+	border:2px solid red;
+	background-color:#1e1e1e;
+	cursor:hand;
+
+
+}
+
+.videoaula h1{
+	color:red;
+	text-align:center;
+	margin:200px;
+	padding:200px;
+	border:2px solid red;
+	background-color:#010203;
+
+}
+
+.videoaula .explique{
+	color:red;
+	font-size:25px;
+	font-family:arial;
+ 
+}
+
+.explique h2{
+	margin:200;
+	padding:200;
+	color:red;
+	border:5px solid pink;
+	text-align:center;
+	font-size:25px;
+	font-family:arial;
+}
+
+.voltar li{
+	margin:15px;
+	padding:15px;
+	border:2px solid pink;
+	text-align:left;
+	background-color:lightgreen;
+
+}
+
+.voltar ul{
+	list-style: none;
+	text-align:right;
+	
+
+
+}
+
+.voltar a{
+	text-decoration: none;
+	text-align:left;
+}
+
+.videoaulapicachu h1{
+	margin:250px;
+	padding:250px;
+    font-size:25px;
+    font-family:arial;
+    border:1px solid purple;
+    text-align:center;
+    background-color:yellow;
+
+
+}
+
+.pica video{
+	margin:100px;
+	padding:100px;
+	border:5px solid yellow;
+	background-color:yellow;
+
+
+
+}
+
+.menus ul li {
+	margin:5px;
+	padding:20px;
+	display:inline-block;
+	border:1px solid orange;
+    text-align:right;
+    background-color:green;
+
+}
+.menus a:hover {
+	color:red;
+	text-decoration: none;
+
+
+}
+
+.menus a {
+	text-decoration: none;
+}
+
+.pica video:hover{
+	cursor:hand;
+	cursor-color:yellow;
+}
+
+body{
+	background-color:#BA55D3;
+
+
+}
+
+.gostou p{
+	margin:100px;
+	padding:100px;
+	font-size:25px;
+	font-family:arial;
+	border:1px solid green;
+	background-color:orange;
+    text-align:center;
+    color:red;
+}
+
+.raposinha li {
+	margin:0;
+	padding:2px;
+	border:1px solid red;
+	background-color:orange;
+	list-style:none;
+	text-align:center;
+	font-size:25px;
+	color:red;
+
+}
+.raposinha a {
+	text-decoration:none;
+	text-align:left;
+	color:red;
+
+}
+
+
+
+.novidade{
+   margin:100px;
+   padding:100px;
+   font-size:25px;
+   font-family:arial;
+   color:red;
+   border:1px solid orange;
+   text-align:center;
+   background-color:black;
+}
+
+.videoaula01 video{
+	margin:150px;
+	padding:150px;
+	border:2px solid red;
+	background-color:#800000;
+
+}
+
+.p p{
+	margin:100px;
+	padding:100px;
+	border:1px solid  green;
+     background-color:#606969;
+}
+
+
+.p li {
+	margin:100px;
+	padding:100px;
+	border:1px solid orange;
+	list-style: none;
+    text-align:center;
+    background-color:orange;
+
+
+}
+
+.p a {
+	text-decoration: none;
+    color:red;
+}
+
+.p a:hover{
+	color:green;
+	cursor:hand; 
+}
+
+.saber  li{
+	color:red;
+	background-color:green;
+	font-size:25px;
+	font-family:arial;
+
+}
+
+.saber img{
+	margin:100px 2px;
+	padding:-200px auto;
+	border:1px solid green;
+	margin-bottom:100px; 
+}
